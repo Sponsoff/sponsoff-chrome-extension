@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.2",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  },
+  "devDependencies": {
+    "file-loader": "^3.0.1"
+  }
+}
